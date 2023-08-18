@@ -15,7 +15,7 @@ class AiBarcodeWebPlugin {
   static void registerWith(Registrar registrar) {
     // Registers plugins
     AiBarcodeScannerWebPlugin.registerWith(registrar);
-    AiBarcodeCreatorWebPlugin.registerWith(registrar);
+    //AiBarcodeCreatorWebPlugin.registerWith(registrar);
   }
 }
 
